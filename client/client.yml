@@ -2,4 +2,4 @@ user:
   role: user
 spring:
   profiles:
-    active: production
+    active: prod
