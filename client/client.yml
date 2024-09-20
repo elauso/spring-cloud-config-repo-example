@@ -1,5 +1,0 @@
-user:
-  role: user
-spring:
-  profiles:
-    active: prod
